@@ -1,8 +1,7 @@
 /******************************************************************************************************************************************
  * If you use this code, please cite
  * L. Cirigliano, C. Castellano and G. Bianconi
-  * "Generalized network structures: the configuration model and the canonical ensemble of
-  * simplicial complexes"
+  * "General theory for extended-range percolation on simple and multiplex networks
   * Phys. Rev. E 110, 034302 (2024)
  *  ***************************************************************************************************************************************
  *This code implements Extended Range Percolation (ERP) on single Poisson networks with N nodes and average degree c
