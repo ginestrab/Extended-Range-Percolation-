@@ -19,7 +19,7 @@ If you use this code please cite:
 
 [1] Lorenzo Cirigliano, Claudio Castellano, and Ginestra Bianconi 
 
-"CGeneral theory for extended-range percolation on simple and multiplex networks."
+"General theory for extended-range percolation on simple and multiplex networks."
 
 Physical Review E, 110, 034302 (2024).
 
